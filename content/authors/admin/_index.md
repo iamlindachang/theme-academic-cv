@@ -24,7 +24,7 @@ role: Behavioral Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
+  - name: Toyota Research Institute
     url: 
 
 # Social network links
